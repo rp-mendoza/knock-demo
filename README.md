@@ -1,5 +1,3 @@
-![notion-style feed example](./images/activity-feed.png)
-
 ## Getting Started
 
 This is a clone of https://github.com/knocklabs/notion-feed-example.git. The custom-feed utilizes the cloned work from that repo. The ootb components have been added.
