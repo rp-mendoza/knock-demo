@@ -29,7 +29,7 @@ Once you've added those values and environment variables, you can run the projec
 npm run dev
 ```
 
-or to run with the local certificate run: 
+or to run with the local certificate run (must have a localhost-key.pem and localhost.pem): 
 
 ```bash
 npm run test
